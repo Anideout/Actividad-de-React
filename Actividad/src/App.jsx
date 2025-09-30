@@ -2,12 +2,10 @@ import React from 'react'
 import './App.css'
 import Tarjeta from './components/Tarjeta'
 
-// Importar imágenes que subiste a la carpeta `images/` en la raíz del proyecto
 import cat from '../images/cat.jpg'
 import catpsico from '../images/catpsico.jpg'
 import smokecat from '../images/smokecat.jpg'
 
-// array de personas y render .map()
 const personasArray = [
   { id: 1, nombre: 'Cat Loquito', edad: 2, profesion: 'Locura', image: cat },
   { id: 2, nombre: 'Cat psicodelico', edad: 1, profesion: 'Psicodelia', image: catpsico },
