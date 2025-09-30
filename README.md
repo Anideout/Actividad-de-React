@@ -1,2 +1,2 @@
 # Actividad-de-React
-3 limdos gatitos con distintas habilidades y edades 
+3  gatitos personificados :3  
