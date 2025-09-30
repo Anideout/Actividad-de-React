@@ -100,7 +100,7 @@
 }
 .image-input { display: none }
 
-/* Estilos para la actividad Tarjetas de Presentación */
+/* Estilos para las Tarjetas */
 .app-root { padding: 20px; font-family: Arial, Helvetica, sans-serif }
 .section { margin: 18px 0 }
 .tarjetas-row { display: flex; gap: 12px; flex-wrap: wrap; justify-content: center }
